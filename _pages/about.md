@@ -28,6 +28,11 @@ I am applying for postdoctoral positions starting in Fall 2025 to advance my res
 
 News
 ======
+
+\[2025.1\] [Google Blog](https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/) reports our Chain-of-Agent! Thanks, Google!
+
+\[2025.1\] One paper was accepted at ICLR 2025, and one was accepted at NAACL 2025. Thanks to Sarkar and Haoyuan Li!
+
 \[2024.9\] One paper on [Multi-Agent LLMs](https://yuszh.com/chain-of-agents/) is accepted at NeurIPS 2024. Thanks to all my collaborators!
 
 \[2024.7\] One paper on LLM error detection is accepted at COLM 2024. Thanks to Ryo and all the collaborators!
