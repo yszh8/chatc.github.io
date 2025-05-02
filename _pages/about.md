@@ -10,7 +10,9 @@ redirect_from:
 
 Hi~ I am Yusen Zhang, a fourth-year CS PhD student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). Before that, I received my bachelor's degree from Beijing Institute of Technology. When I was in Beijing, I interned at Big Data Mining Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) where I started my research on NLP.
 
-<span style="color:red;">**I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I actively seek opportunities in this area and welcome any related information or openings. I am also open to academic collaborations—please feel free to reach out if you’re interested in working together!**</span>
+<span style="color:red;">**I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I actively seek opportunities in this area and welcome any related information or openings.**</span>
+
+I am also open to academic collaborations—please feel free to reach out if you’re interested in working together! Let's build the future of LLM together!
 
 Research
 ======
