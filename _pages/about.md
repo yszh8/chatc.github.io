@@ -10,9 +10,11 @@ redirect_from:
 
 Hi~ I am Yusen Zhang, a fourth-year CS PhD student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). Before that, I received my bachelor's degree from Beijing Institute of Technology. When I was in Beijing, I interned at Big Data Mining Group, [Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/) where I started my research on NLP.
 
+<span style="color:red;">**I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I actively seek opportunities in this area and welcome any related information or openings. I am also open to academic collaborations—please feel free to reach out if you’re interested in working together!**</span>
 
 Research
 ======
+
 My research interests lie in applying Deep Learning for Natural Language Processing, focusing on Natural Language Generation. Specifically, I am interested in the following research topics:  
 
 
@@ -23,11 +25,13 @@ To answer the following research questions:
 1. How can we design mechanisms to facilitate efficient, accurate, and context-aware communication between LLMs?
 2. How can we harness the collective intelligence of LLMs to address reasoning challenges and high-stakes decision-making tasks?
 3. What technological, ethical, and policy frameworks should we establish to ensure the responsible integration of collaborative LLM systems into society?
-   
-I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I am actively seeking opportunities in this area and welcome any related information or openings. I am also open to academic collaborations—please feel free to reach out if you’re interested in working together!
 
 News
 ======
+
+\[2025.5\] One paper on fair summarization was accepted at NACCL 2025, and won the SAC award (25/2346)! Thanks Haoyuan!
+
+\[2025.5\] AAAR-1.0 was accepted at ICML 2025, and won Best Paper Award at the 2nd AI4Research workshop @ AAAI 2025. Thanks Renze!
 
 \[2025.1\] [Google Blog](https://research.google/blog/chain-of-agents-large-language-models-collaborating-on-long-context-tasks/) reports our Chain-of-Agent! Thanks, Google!
 
