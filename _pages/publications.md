@@ -29,7 +29,7 @@ ICML 2025, <span style="color:#c71585;"> Best Paper Award at the 2nd AI4Research
 
 **Coverage-based Fairness in Multi-document Summarization** [\[PDF\]](https://arxiv.org/pdf/2412.08795) \
 Haoyuan Li, **Yusen Zhang**, Rui Zhang, Snigdha Chaturvedi \
-NAACL 2025.
+NAACL 2025， <span style="color:#c71585;"> SAC Award (25/3246, 0.7%).</span>
 
 **GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers** [\[PDF\]](https://arxiv.org/pdf/2412.09722) [\[Code\]](https://github.com/psunlpgroup/GreaTer) \
 Sarkar Snigdha Sarathi Das, Ryo Kamoi, Bo Pang, **Yusen Zhang**, Caiming Xiong, Rui Zhang \
