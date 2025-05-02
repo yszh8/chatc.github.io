@@ -7,22 +7,22 @@ author_profile: true
 **Preprints**
 
 **HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?** [\[PDF\]](https://arxiv.org/pdf/2504.18406) [\[Home\]](https://yszh8.github.io/hrscene/)\
-**Yusen Zhang**, Wenliang Zheng, Aashrith Madasu, Peng Shi, Ryo Kamoi, Hao Zhou, Zhuoyang Zou, Shu Zhao, Sarkar Snigdha Sarathi Das, Vipul Gupta, Xiaoxin Lu, Nan Zhang, Ranran Haoran Zhang, Avitej Iyer, Renze Lou, Wenpeng Yin, Rui Zhang \
+**Yusen Zhang**, Wenliang Zheng, Aashrith Madasu, Peng Shi, Ryo Kamoi, Hao Zhou, Zhuoyang Zou, Shu Zhao, Sarkar Snigdha Sarathi Das, Vipul Gupta, Xiaoxin Lu, Nan Zhang, Ranran Haoran Zhang, Avitej Iyer, Renze Lou, Wenpeng Yin, Rui Zhang 
  
 **GREATERPROMPT: A Unified, Customizable, and High-Performing Open-Source Toolkit for Prompt Optimization** [\[PDF\]](https://arxiv.org/pdf/2504.02010) \
-Wenliang Zheng, Sarkar Snigdha Sarathi Das, **Yusen Zhang**, Rui Zhang \
+Wenliang Zheng, Sarkar Snigdha Sarathi Das, **Yusen Zhang**, Rui Zhang 
 
 **When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks** [\[PDF\]](https://arxiv.org/pdf/2504.02010?) \
-Nan Zhang, **Yusen Zhang**, Prasenjit Mitra, Rui Zhang \
+Nan Zhang, **Yusen Zhang**, Prasenjit Mitra, Rui Zhang 
 
 **VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information** [\[PDF\]](https://arxiv.org/abs/2412.00947) [\[Code\]](https://github.com/psunlpgroup/VisOnlyQA)\
-Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang \
+Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang 
 
 **Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858) [\[Code\]](https://github.com/psunlpgroup/VerbosityLLM)\
-**Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang \
+**Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang 
 
 **Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2406.05948) \
-Xi Li, **Yusen Zhang**, Renze Lou, Chen Wu, Jiaqi Wang \
+Xi Li, **Yusen Zhang**, Renze Lou, Chen Wu, Jiaqi Wang 
 
 **Publications**
 
