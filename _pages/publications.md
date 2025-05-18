@@ -21,12 +21,17 @@ Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui
 **Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858) [\[Code\]](https://github.com/psunlpgroup/VerbosityLLM)\
 **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang 
 
-**Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2406.05948) \
-Xi Li, **Yusen Zhang**, Renze Lou, Chen Wu, Jiaqi Wang 
-
 **Publications**
 
 **2025**
+
+**Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation**
+Xiaoxin Lu, Ranran Haoran Zhang, **Yusen Zhang**, Rui Zhang \
+Finding of ACL 2025 \
+
+**Chain-of-Scrutiny: Detecting Backdoor Attacks for Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2406.05948) \
+Xi Li, **Yusen Zhang**, Renze Lou, Chen Wu, Jiaqi Wang  \
+Findings of ACL 2025 \
 
 **AAAR-1.0: Assessing AI's Potential to Assist Research** [\[PDF\]](https://arxiv.org/pdf/2410.22394) [\[Code\]](https://github.com/RenzeLou/AAAR-1.0/tree/main) \
 Renze Lou, Hanzi Xu, Sijia Wang, Jiangshu Du, Ryo Kamoi, Xiaoxin Lu, Jian Xie, Yuxuan Sun, **Yusen Zhang**, Jihyun Janice Ahn, Hongchao Fang, Zhuoyang Zou, Wenchao Ma, Xi Li, Kai Zhang, Congying Xia, Lifu Huang, Wenpeng Yin \
