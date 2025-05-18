@@ -38,11 +38,11 @@ Findings of ACL 2025.
 
 **AAAR-1.0: Assessing AI's Potential to Assist Research** [\[PDF\]](https://arxiv.org/pdf/2410.22394) [\[Code\]](https://github.com/RenzeLou/AAAR-1.0/tree/main) \
 Renze Lou, Hanzi Xu, Sijia Wang, Jiangshu Du, Ryo Kamoi, Xiaoxin Lu, Jian Xie, Yuxuan Sun, **Yusen Zhang**, Jihyun Janice Ahn, Hongchao Fang, Zhuoyang Zou, Wenchao Ma, Xi Li, Kai Zhang, Congying Xia, Lifu Huang, Wenpeng Yin \
-ICML 2025, <span style="color:#c71585;"> Best Paper Award at the 2nd AI4Research workshop @ AAAI 2025.</span>
+ICML 2025. <span style="color:#c71585;"> Best Paper Award at the 2nd AI4Research workshop @ AAAI 2025.</span>
 
 **Coverage-based Fairness in Multi-document Summarization** [\[PDF\]](https://arxiv.org/pdf/2412.08795) \
 Haoyuan Li, **Yusen Zhang**, Rui Zhang, Snigdha Chaturvedi \
-NAACL 2025， <span style="color:#c71585;"> SAC Award for Summarization (25/3246, top 0.7%).</span>
+NAACL 2025. <span style="color:#c71585;"> SAC Award for Summarization (25/3246, top 0.7%).</span>
 
 **GReaTer: Gradients over Reasoning Makes Smaller Language Models Strong Prompt Optimizers** [\[PDF\]](https://arxiv.org/pdf/2412.09722) [\[Code\]](https://github.com/psunlpgroup/GreaTer) \
 Sarkar Snigdha Sarathi Das, Ryo Kamoi, Bo Pang, **Yusen Zhang**, Caiming Xiong, Rui Zhang \
