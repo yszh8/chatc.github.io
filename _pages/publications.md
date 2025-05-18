@@ -28,7 +28,7 @@ Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui
 
 **2025**
 
-**Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation**
+**Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation** \
 Xiaoxin Lu, Ranran Haoran Zhang, **Yusen Zhang**, Rui Zhang \
 Finding of ACL 2025.
 
