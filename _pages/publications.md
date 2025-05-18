@@ -7,7 +7,7 @@ author_profile: true
 **Preprints**
 
 **NeuroGen: Neural Network Parameter Generation via Large Language Models** \
-Jiaqi Wang*, Yusen Zhang*, Xi Li*
+Jiaqi Wang\*, Yusen Zhang\*, Xi Li\*
 
 **HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?** [\[PDF\]](https://arxiv.org/pdf/2504.18406) [\[Home\]](https://yszh8.github.io/hrscene/)\
 **Yusen Zhang**, Wenliang Zheng, Aashrith Madasu, Peng Shi, Ryo Kamoi, Hao Zhou, Zhuoyang Zou, Shu Zhao, Sarkar Snigdha Sarathi Das, Vipul Gupta, Xiaoxin Lu, Nan Zhang, Ranran Haoran Zhang, Avitej Iyer, Renze Lou, Wenpeng Yin, Rui Zhang 
