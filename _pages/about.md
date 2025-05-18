@@ -31,6 +31,8 @@ To answer the following research questions:
 News
 ======
 
+\[2025.5\] Two papers were accepted at ACL 2025 Findings. Congrats Xiaoxin and Xi!
+
 \[2025.5\] One paper on fair summarization was accepted at NACCL 2025, and won the SAC award (25/2346)! Thanks Haoyuan!
 
 \[2025.5\] AAAR-1.0 was accepted at ICML 2025, and won Best Paper Award at the 2nd AI4Research workshop @ AAAI 2025. Thanks Renze!
