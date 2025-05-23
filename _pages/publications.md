@@ -15,8 +15,7 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 **HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?** [\[PDF\]](https://arxiv.org/pdf/2504.18406) [\[Home\]](https://yszh8.github.io/hrscene/)\
 **Yusen Zhang**, Wenliang Zheng, Aashrith Madasu, Peng Shi, Ryo Kamoi, Hao Zhou, Zhuoyang Zou, Shu Zhao, Sarkar Snigdha Sarathi Das, Vipul Gupta, Xiaoxin Lu, Nan Zhang, Ranran Haoran Zhang, Avitej Iyer, Renze Lou, Wenpeng Yin, Rui Zhang 
  
-**GREATERPROMPT: A Unified, Customizable, and High-Performing Open-Source Toolkit for Prompt Optimization** [\[PDF\]](https://arxiv.org/pdf/2504.02010) \
-Wenliang Zheng, Sarkar Snigdha Sarathi Das, **Yusen Zhang**, Rui Zhang 
+
 
 **When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks** [\[PDF\]](https://arxiv.org/pdf/2504.02010?) \
 Nan Zhang, **Yusen Zhang**, Prasenjit Mitra, Rui Zhang 
@@ -30,6 +29,10 @@ Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui
 **Publications**
 
 **2025**
+
+**GREATERPROMPT: A Unified, Customizable, and High-Performing Open-Source Toolkit for Prompt Optimization** [\[PDF\]](https://arxiv.org/pdf/2504.02010) \
+Wenliang Zheng, Sarkar Snigdha Sarathi Das, **Yusen Zhang**, Rui Zhang \
+ACL 2025 Demo.
 
 **Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation** \
 Xiaoxin Lu, Ranran Haoran Zhang, **Yusen Zhang**, Rui Zhang \
