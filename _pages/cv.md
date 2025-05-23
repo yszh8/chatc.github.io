@@ -7,12 +7,12 @@ redirect_from:
   - /resume
 ---
 
-Please feel free to check my [CV](/files/Yusen_Zhang_s_CV_Jan_25.pdf) (Last update: Jan. 2025).
+Please feel free to check my [CV](/files/Yusen_Zhang_s_CV_May_25.pdf) (Last update: May, 2025).
 
 ## MISC
 
 ### Quote
-_The value of a man resides in what he gives and not in what he is capable of receiving._ 
+_The value of a man resides in what he gives and not in what he is capable of receiving.    -- Albert Einstein_  
 
 ### Page Visiting
 
