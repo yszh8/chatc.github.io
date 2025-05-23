@@ -28,7 +28,7 @@ Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui
 
 **2025**
 
-**GREATERPROMPT: A Unified, Customizable, and High-Performing Open-Source Toolkit for Prompt Optimization** [\[PDF\]](https://arxiv.org/pdf/2504.02010) [\[PDF\]](https://github.com/psunlpgroup/GreaterPrompt) \
+**GREATERPROMPT: A Unified, Customizable, and High-Performing Open-Source Toolkit for Prompt Optimization** [\[PDF\]](https://arxiv.org/pdf/2504.02010) [\[Code\]](https://github.com/psunlpgroup/GreaterPrompt) \
 Wenliang Zheng, Sarkar Snigdha Sarathi Das, **Yusen Zhang**, Rui Zhang \
 ACL 2025 Demo.
 
