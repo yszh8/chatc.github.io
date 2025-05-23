@@ -7,7 +7,7 @@ author_profile: true
 **Preprints**
 
 **Training Step-Level Reasoning Verifiers with Formal Verification Tools** [\[PDF\]](https://arxiv.org/abs/2505.15960) \
-Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Sarkar Snigdha Sarathi Das, Rui Zhang \
+Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Sarkar Snigdha Sarathi Das, Rui Zhang
 
 **NeuroGen: Neural Network Parameter Generation via Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2505.12470) [\[Home\]](https://fover-prm.github.io/) \
 Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
