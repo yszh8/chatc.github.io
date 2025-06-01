@@ -117,8 +117,4 @@ Findings of ACL 2021.
 **Yusen Zhang\***, Xiangyu Dong\*, Shuaichen Chang, Tao Yu, Peng Shi, Rui Zhang\
 Intex-Sempar workshop @EMNLP 2020.
 
-**GRN: Gated Relation Network to Enhance Convolutional Neural Network for Named Entity Recognition.** [\[PDF\]](https://arxiv.org/pdf/1907.05611.pdf) [\[Code\]](https://github.com/microsoft/vert-papers/tree/master/papers/GRN-NER)\
-Hui Chen, Zijia Lin, Guiguang Ding, Jianguang Lou, **Yusen Zhang**, Borje Karlsson\
-AAAI 2019.
-
 \* indicates equal contribution
