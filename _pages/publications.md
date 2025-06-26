@@ -12,9 +12,6 @@ Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Sarkar Snigdha Sarathi Das, Rui Zhang
 **NeuroGen: Neural Network Parameter Generation via Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2505.12470)  \
 Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 
-**HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?** [\[PDF\]](https://arxiv.org/pdf/2504.18406) [\[Home\]](https://yszh8.github.io/hrscene/)\
-**Yusen Zhang**, Wenliang Zheng, Aashrith Madasu, Peng Shi, Ryo Kamoi, Hao Zhou, Zhuoyang Zou, Shu Zhao, Sarkar Snigdha Sarathi Das, Vipul Gupta, Xiaoxin Lu, Nan Zhang, Ranran Haoran Zhang, Avitej Iyer, Renze Lou, Wenpeng Yin, Rui Zhang 
-
 **When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks** [\[PDF\]](https://arxiv.org/pdf/2504.02010?) \
 Nan Zhang, **Yusen Zhang**, Prasenjit Mitra, Rui Zhang 
 
@@ -27,6 +24,10 @@ Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui
 **Publications**
 
 **2025**
+
+**HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?** [\[PDF\]](https://arxiv.org/pdf/2504.18406) [\[Home\]](https://yszh8.github.io/hrscene/)\
+**Yusen Zhang**, Wenliang Zheng, Aashrith Madasu, Peng Shi, Ryo Kamoi, Hao Zhou, Zhuoyang Zou, Shu Zhao, Sarkar Snigdha Sarathi Das, Vipul Gupta, Xiaoxin Lu, Nan Zhang, Ranran Haoran Zhang, Avitej Iyer, Renze Lou, Wenpeng Yin, Rui Zhang \
+ICCV 2025.
 
 **GREATERPROMPT: A Unified, Customizable, and High-Performing Open-Source Toolkit for Prompt Optimization** [\[PDF\]](https://arxiv.org/pdf/2504.02010) [\[Code\]](https://github.com/psunlpgroup/GreaterPrompt) \
 Wenliang Zheng, Sarkar Snigdha Sarathi Das, **Yusen Zhang**, Rui Zhang \
