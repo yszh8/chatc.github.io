@@ -33,7 +33,7 @@ ICCV 2025.
 Wenliang Zheng, Sarkar Snigdha Sarathi Das, **Yusen Zhang**, Rui Zhang \
 ACL 2025 Demo.
 
-**Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation** \
+**Enhance Multimodal Consistency and Coherence for Text-Image Plan Generation** [\[PDF\]](https://arxiv.org/pdf/2506.11380) [\[Code\]](https://github.com/psunlpgroup/MPlanner)\
 Xiaoxin Lu, Ranran Haoran Zhang, **Yusen Zhang**, Rui Zhang \
 Finding of ACL 2025.
 
