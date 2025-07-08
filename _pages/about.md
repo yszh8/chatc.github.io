@@ -32,6 +32,8 @@ To answer the following research questions:
 News
 ======
 
+\[2025.6\] One paper on Geometry Understanding of VLM is accepted at COLM 2025. Thanks to Ryo and all the collaborators!
+
 \[2025.6\] One paper on "Visual Long Context" of VLM is accepted at ICCV 2025. Thanks to all my collaborators!
 
 \[2025.5\] Two papers were accepted at ACL 2025 Findings. Congrats Xiaoxin and Xi!
