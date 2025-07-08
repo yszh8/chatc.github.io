@@ -15,15 +15,16 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 **When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks** [\[PDF\]](https://arxiv.org/pdf/2504.02010?) \
 Nan Zhang, **Yusen Zhang**, Prasenjit Mitra, Rui Zhang 
 
-**VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information** [\[PDF\]](https://arxiv.org/abs/2412.00947) [\[Code\]](https://github.com/psunlpgroup/VisOnlyQA)\
-Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang 
-
 **Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858) [\[Code\]](https://github.com/psunlpgroup/VerbosityLLM)\
 **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang 
 
 **Publications**
 
 **2025**
+
+**VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information** [\[PDF\]](https://arxiv.org/abs/2412.00947) [\[Code\]](https://github.com/psunlpgroup/VisOnlyQA)\
+Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang \ 
+COLM 2025.
 
 **HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?** [\[PDF\]](https://arxiv.org/pdf/2504.18406) [\[Home\]](https://yszh8.github.io/hrscene/)\
 **Yusen Zhang**, Wenliang Zheng, Aashrith Madasu, Peng Shi, Ryo Kamoi, Hao Zhou, Zhuoyang Zou, Shu Zhao, Sarkar Snigdha Sarathi Das, Vipul Gupta, Xiaoxin Lu, Nan Zhang, Ranran Haoran Zhang, Avitej Iyer, Renze Lou, Wenpeng Yin, Rui Zhang \
