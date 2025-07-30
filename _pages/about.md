@@ -31,6 +31,7 @@ To answer the following research questions:
 
 News
 ======
+\[2025.1\] [PSU News](https://www.psu.edu/news/engineering/story/qa-how-are-researchers-optimizing-ai-systems-science) reports three recent papers I particiated in! Thanks, PSU!
 
 \[2025.6\] One paper on Geometry Understanding of VLM is accepted at COLM 2025. Thanks to Ryo and all the collaborators!
 
