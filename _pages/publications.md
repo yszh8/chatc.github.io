@@ -15,12 +15,13 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 **When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks** [\[PDF\]](https://arxiv.org/pdf/2504.02010?) \
 Nan Zhang, **Yusen Zhang**, Prasenjit Mitra, Rui Zhang 
 
-**Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858) [\[Code\]](https://github.com/psunlpgroup/VerbosityLLM)\
-**Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang 
-
 **Publications**
 
 **2025**
+
+**Verbosity ≠ Veracity: Demystify Verbosity Compensation Behavior of Large Language Models** [\[PDF\]](https://arxiv.org/abs/2411.07858) [\[Code\]](https://github.com/psunlpgroup/VerbosityLLM)\
+**Yusen Zhang**, Sarkar Snigdha Sarathi Das, Rui Zhang \
+Uncertainty-Aware NLP @ EMNLP 2025.
 
 **VisOnlyQA: Large Vision Language Models Still Struggle with Visual Perception of Geometric Information** [\[PDF\]](https://arxiv.org/abs/2412.00947) [\[Code\]](https://github.com/psunlpgroup/VisOnlyQA)\
 Ryo Kamoi, **Yusen Zhang**, Sarkar Snigdha Sarathi Das, Ranran Haoran Zhang, Rui Zhang \
