@@ -16,27 +16,30 @@ I am also open to academic collaborations—please feel free to reach out if you
 Research
 ======
 
-My research interests lie in Large Language Models, Agents, and Multi-Agent LLM Systems. Specifically, I am interested in building Distributional Agent Systems for work:
+My research interests lie in Large Language Models, Agents, and Multi-Agent LLM Systems. Specifically, I am interested in building Distributional Multi-Agent LLM Systems for Work (AgentSociety4Work), using multi-agent systems to function as collaborative organizational entities. It involves two parts of research with diverse domains:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scalable, efficient, trustworthy, Collaborative Large Language Model Agent systems.**  (Agent + NLP)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scalable, efficient, trustworthy, Collaborative Large Language Model Agent systems.**  (Agent x NLP)
 
-To answer the following research questions:
-1. How can we design mechanisms to facilitate efficient, accurate, and context-aware communication between LLMs?
-2. How can we harness the collective intelligence of LLMs to address reasoning challenges and high-stakes decision-making tasks?
-3. What technological, ethical, and policy frameworks should we establish to ensure the responsible integration of collaborative LLM systems into society?
+Fundamentally, I aim to explore how multiple language models can work together intelligently. My research focuses on the following questions:
+
+1. How can we design mechanisms for efficient, accurate, and context-aware communication between LLMs?
+2. How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?
+3. What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Make the Agent Systems work in real-world organizations with humans.**  
 
-I believe this requires the efforts of multiple domains. For instance, we need to answer the following research questions:
-1. Can we design a reliable memory system for the agents to work and act on long-term tasks? (Agent + Database)
-2. What makes an agent system work better than a single agent? (Agent + ML Theory)
-3. How can Agents in organizations work with humans smoothly? (Agent + HCI)
-4. Can Agents finish the tasks in an organization like a human being, such as computer use (Agent + CV), actional decision making (Agent + Robots)
+I envision agents that can operate as effective members of human organizations, collaborating with people and other agents across domains.
+Key research directions include:
+
+1. Designing reliable memory systems that enable agents to pursue long-term goals (Agent × Database)
+2. Understanding why and when multi-agent systems outperform single agents (Agent × ML Theory)
+3. Creating smooth human–agent collaboration in practical workflows (Agent × HCI)
+4. Developing actionable agents that can use computers, perceive visual environments, and make autonomous decisions (Agent × CV/Robotics)
 
 News
 ======
 
-\[2025.10\] I passed my Phd defense, thanks to everyone who supports and helps me in my PhD study! Next, I will join [DAPLab](https://daplab.cs.columbia.edu/) to work on multi-agent systems for work!
+\[2025.10\] I passed my Phd defense, thanks to everyone who supports and helps me in my PhD study! Next, it is very excited to join [DAPLab](https://daplab.cs.columbia.edu/) to work on multi-agent systems for work!
 
 \[2025.7\] [PSU News](https://www.psu.edu/news/engineering/story/qa-how-are-researchers-optimizing-ai-systems-science) reports three recent projects I particiated in! Thanks, PSU!
 
