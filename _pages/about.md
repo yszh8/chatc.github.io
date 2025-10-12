@@ -16,7 +16,7 @@ I am also open to academic collaborations—please feel free to reach out if you
 Research
 ======
 
-My research interests lie in Large Language Models, Agents, and Multi-Agent LLM Systems. Specifically, I am interested in building Distributional Multi-Agent LLM Systems for Work (AgentSociety4Work), using multi-agent systems to function as collaborative organizational entities. It involves two parts of research with diverse domains:
+My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in building Distributional Multi-Agent LLM Systems for Work (AgentSociety4Work), using multi-agent systems to function as collaborative organizational entities. It involves two parts of research with diverse domains:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scalable, efficient, trustworthy, Collaborative Large Language Model Agent systems.**  (Agent x NLP)
 
