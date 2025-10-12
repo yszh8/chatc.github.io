@@ -8,29 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Yusen Zhang, a fourth-year CS PhD student at Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). I am fortunate to be the recipient of the SAC Award of NAACL 2025 and the Best Paper Award of a workshop at AAAI 2025.
+Hi~ I am Yusen Zhang, an incoming postdoc research scientist at Columbia CS, advised by broad supervisors in [DAPLab](https://daplab.cs.columbia.edu/people) (including Zhou Yu, Eugene Wu, David Blei, Daniel Hsu, and more). I obtained my PhD degree from Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). I am fortunate to be the recipient of the SAC Award of NAACL 2025 and the Best Paper Award of a workshop at AAAI 2025.
 
-
-<span style="color:red;">**I am applying for postdoctoral positions starting in Fall 2025 to advance my research on multi-agent LLM systems. I actively seek opportunities in this area and welcome any related information or openings.**</span>
 
 I am also open to academic collaborations—please feel free to reach out if you’re interested in working together! Let's build the future of LLM together!
 
 Research
 ======
 
-My research interests lie in applying Deep Learning for Natural Language Processing, focusing on Natural Language Generation. Specifically, I am interested in the following research topics:  
+My research interests lie in Large Language Models, Agents, and Multi-Agent LLM Systems. Specifically, I am interested in building Distributional Agent Systems for work:
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scalable, efficient, trustworthy, Collaborative Large Language Model systems.**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Human-centric Large Language Model evaluation and applications.**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Scalable, efficient, trustworthy, Collaborative Large Language Model Agent systems.**  (Agent + NLP)
 
 To answer the following research questions:
 1. How can we design mechanisms to facilitate efficient, accurate, and context-aware communication between LLMs?
 2. How can we harness the collective intelligence of LLMs to address reasoning challenges and high-stakes decision-making tasks?
 3. What technological, ethical, and policy frameworks should we establish to ensure the responsible integration of collaborative LLM systems into society?
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Make the Agent Systems work in real-world organizations with humans.**  
+
+I believe this requires the efforts of multiple domains. For instance, we need to answer the following research questions:
+1. Can we design a reliable memory system for the agents to work and act on long-term tasks? (Agent + Database)
+2. What makes an agent system work better than a single agent? (Agent + ML Theory)
+3. How can Agents in organizations work with humans smoothly? (Agent + HCI)
+4. Can Agents finish the tasks in an organization like a human being, such as computer use (Agent + CV), actional decision making (Agent + Robots)
+
 News
 ======
+
+\[2025.10\] I passed my Phd defense, thanks to everyone who supports and helps me in my PhD study! Next, I will join [DAPLab](https://daplab.cs.columbia.edu/) to work on multi-agent systems for work!
+
 \[2025.7\] [PSU News](https://www.psu.edu/news/engineering/story/qa-how-are-researchers-optimizing-ai-systems-science) reports three recent projects I particiated in! Thanks, PSU!
 
 \[2025.6\] One paper on Geometry Understanding of VLM is accepted at COLM 2025. Thanks to Ryo and all the collaborators!
