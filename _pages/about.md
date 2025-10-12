@@ -42,6 +42,8 @@ My ultimate goal is to build Agent Society — a user-centric ecosystem where mu
 News
 ======
 
+\[2025.10\] We organize the WMAC 2026 workshop! [AAAI 2026 Bridge Program on Advancing LLM-Based Multi-Agent Collaboration. ](https://multiagents.org/2026/)Welcome to submit, discuss, and brainstorm!
+
 \[2025.10\] I passed my Phd defense, thanks to everyone who supports and helps me in my PhD study! Next, it is very excited to join [DAPLab](https://daplab.cs.columbia.edu/) to work on multi-agent systems for work!
 
 \[2025.7\] [PSU News](https://www.psu.edu/news/engineering/story/qa-how-are-researchers-optimizing-ai-systems-science) reports three recent projects I particiated in! Thanks, PSU!
