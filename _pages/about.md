@@ -35,7 +35,7 @@ Key research directions include:
 2. Understanding why and when multi-agent systems outperform single agents (Agent × ML Theory)
 3. Creating smooth human–agent collaboration in practical workflows (Agent × HCI)
 4. Developing actionable agents that can use computers, perceive visual environments, and make autonomous decisions (Agent × CV/Robotics)
-5. Formulizing humans as agents, such as digital twins, and ask them to work on behalf of humans (Agent x Business)
+5. Modeling humans as digital-agent counterparts (digital twins) that can work on their behalf. (Agent x Business)
 
 My ultimate goal is to build Agent Society — a user-centric ecosystem where multiple AI entities collaborate, communicate, and assist both humans and other agents in complex, real-world environments.
 
