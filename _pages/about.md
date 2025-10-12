@@ -22,20 +22,20 @@ My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in
 
 From a technical perspective, I aim to explore how multiple language models can work together intelligently (Agent x NLP/LLM). For instance:
 
-1\. How can we design mechanisms for efficient, accurate, and context-aware communication between LLMs?
-2\. How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?
-3\. What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
+1. How can we design mechanisms for efficient, accurate, and context-aware communication between LLMs?
+2. How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?
+3. What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 
 **Make the Agent and Agent Systems work in real-world organizations to automate humans' work.**  
 
 From an application perspective, I envision agents that can operate as effective members of human organizations, collaborating with people and other agents across domains.
 Key research directions include:
 
-1\. Designing reliable memory systems that enable agents to pursue long-term goals (Agent × Database)
-2\. Understanding why and when multi-agent systems outperform single agents (Agent × ML Theory)
-3\. Creating smooth human–agent collaboration in practical workflows (Agent × HCI)
-4\. Developing actionable agents that can use computers, perceive visual environments, and make autonomous decisions (Agent × CV/Robotics)
-5\. Modeling humans as digital-agent counterparts (digital twins) that can work on their behalf. (Agent x Business)
+1. Designing reliable memory systems that enable agents to pursue long-term goals (Agent × Database)
+2. Understanding why and when multi-agent systems outperform single agents (Agent × ML Theory)
+3. Creating smooth human–agent collaboration in practical workflows (Agent × HCI)
+4. Developing actionable agents that can use computers, perceive visual environments, and make autonomous decisions (Agent × CV/Robotics)
+5. Modeling humans as digital-agent counterparts (digital twins) that can work on their behalf. (Agent x Business)
 
 My ultimate goal is to build Agent Society — a user-centric ecosystem where multiple AI entities collaborate, communicate, and assist both humans and other agents in complex, real-world environments.
 
