@@ -16,19 +16,19 @@ I am also open to academic collaborations—please feel free to reach out if you
 Research
 ======
 
-My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in building Distributional Multi-Agent LLM Systems for Work (AgentSociety4Work), using multi-agent systems to function as collaborative organizational entities to automate humans' work. It involves two parts of research in diverse domains:
+My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in building distributional Multi-Agent LLM Systems for Work (AgentSociety4Work), using multi-agent systems to function as collaborative organizational entities, similar to human society, to automate humans' work. It involves two parts of research in diverse domains:
 
-**Scalable, efficient, trustworthy, Collaborative Large Language Model Agent systems.** 
+**Scalable, efficient, trustworthy, collaborative Large Language Model Agent systems.** 
 
-Fundamentally, I aim to explore how multiple language models can work together intelligently (Agent x NLP/LLM). For instance:
+From a technical perspective, I aim to explore how multiple language models can work together intelligently (Agent x NLP/LLM). For instance:
 
 1. How can we design mechanisms for efficient, accurate, and context-aware communication between LLMs?
 2. How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?
 3. What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 
-**Make the Agent and Agent Systems work in real-world organizations with humans.**  
+**Make the Agent and Agent Systems work in real-world organizations to automate humans' work.**  
 
-I envision agents that can operate as effective members of human organizations, collaborating with people and other agents across domains.
+From an application perspective, I envision agents that can operate as effective members of human organizations, collaborating with people and other agents across domains.
 Key research directions include:
 
 1. Designing reliable memory systems that enable agents to pursue long-term goals (Agent × Database)
