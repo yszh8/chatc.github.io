@@ -16,7 +16,7 @@ I am also open to academic collaborations—please feel free to reach out if you
 Research
 ======
 
-My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in building distributional Multi-Agent LLM Systems for Work (AgentSociety4Work), using multi-agent systems to function as collaborative organizational entities, similar to human society, to automate humans' work. It involves two parts of research in diverse domains:
+My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in building distributional Multi-Agent LLM Systems for Work (MA-LLM4Work), using multi-agent systems to function as collaborative organizational entities, similar to human society, to automate/augment humans' work. It involves two parts of research in diverse domains:
 
 **Scalable, efficient, trustworthy, collaborative Large Language Model Agent systems.** 
 
@@ -35,6 +35,9 @@ Key research directions include:
 2. Understanding why and when multi-agent systems outperform single agents (Agent × ML Theory)
 3. Creating smooth human–agent collaboration in practical workflows (Agent × HCI)
 4. Developing actionable agents that can use computers, perceive visual environments, and make autonomous decisions (Agent × CV/Robotics)
+5. Formulizing humans as agents, such as digital twins, and ask them to work on behalf of humans (Agent x Business)
+
+My ultimate goal is to build Agent Society — a user-centric ecosystem where multiple AI entities collaborate, communicate, and assist both humans and other agents in complex, real-world environments.
 
 News
 ======
