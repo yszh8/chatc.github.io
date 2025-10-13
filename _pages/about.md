@@ -25,7 +25,7 @@ From a technical perspective, I aim to explore how multiple language models can 
 - What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 
 
-### 2. Making agent systems work in real-world organizations
+### 2. Make the Agent and Agent Systems work in real-world organizations to automate humans' work.
 
 From an application perspective, I envision agents as effective members of human organizations, collaborating with people and other agents across domains. This requires advances across multiple intersections:
 - Agent × Database: Designing reliable memory systems that enable agents to pursue long-term goals.  
