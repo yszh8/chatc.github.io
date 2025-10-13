@@ -13,37 +13,37 @@ Hi~ I am Yusen Zhang, an incoming Postdoctoral Research Scientist in Computer Sc
 
 I am also open to academic collaborations—please feel free to reach out if you’re interested in working together! Let's build the future of LLM together!
 
-Research
-======
+# Research
 
-My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in building distributed Multi-Agent LLM Systems for Work (MA-LLM4Work), using multi-agent systems to function as collaborative organizational entities, similar to human society, to automate/augment humans' work. It involves two parts of research in diverse domains:
+My research interests lie in AI, NLP, and LLMs. Specifically, I focus on distributed Multi-Agent LLM Systems for Work (MA-LLM4Work), enabling multi-agent systems to function as collaborative organizational entities, similar to human society, to automate or augment human work.  
+My research includes two major directions:
 
-**Scalable, efficient, trustworthy, collaborative Large Language Model Agent systems.** 
+---
 
-From a technical perspective, I aim to explore how multiple language models can work together intelligently (Agent x NLP/LLM). For instance:
+### 1. Scalable, efficient, trustworthy, and collaborative Large Language Model Agent systems
 
-1\. How can we design mechanisms for efficient, accurate, and context-aware communication between LLMs? 
+From a technical perspective, I aim to explore how multiple language models can work together intelligently (Agent × NLP/LLM).  
+Key questions include:
+- How can we design mechanisms for efficient, accurate, and context-aware communication between LLMs?  
+- How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?  
+- What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 
-2\. How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making? 
+---
 
-3\. What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society? 
- 
-**Make the Agent and Agent Systems work in real-world organizations to automate humans' work.**  
+### 2. Making agent systems work in real-world organizations
 
-From an application perspective, I envision agents that can operate as effective members of human organizations, collaborating with people and other agents across domains.
-I believe it requires the advancement of multiple domains:
+From an application perspective, I envision agents as effective members of human organizations, collaborating with people and other agents across domains.  
+This requires advances across multiple intersections:
+- Agent × Database: Designing reliable memory systems that enable agents to pursue long-term goals.  
+- Agent × ML Theory: Understanding why and when multi-agent systems outperform single agents.  
+- Agent × HCI: Creating smooth human–agent collaboration in practical workflows.  
+- Agent × CV/Robotics: Developing actionable agents that can use computers, perceive visual environments, and make autonomous decisions.  
+- Agent × Business: Modeling humans as digital-agent counterparts (digital twins) that can work on their behalf.
 
-1\. Agent × Database: Designing reliable memory systems that enable agents to pursue long-term goals.
+---
 
-2\. Agent × ML Theory: Understanding why and when multi-agent systems outperform single agents.
+My ultimate goal is to build an Agent Society — a user-centric ecosystem where multiple AI entities collaborate, communicate, and assist both humans and other agents in complex, real-world environments.
 
-3\. Agent × HCI: Creating smooth human–agent collaboration in practical workflows.
-
-4\. Agent × CV/Robotics: Developing actionable agents that can use computers, perceive visual environments, and make autonomous decisions.
-
-5\. Agent x Business: Modeling humans as digital-agent counterparts (digital twins) that can work on their behalf.
-
-My ultimate goal is to build Agent Society — a user-centric ecosystem where multiple AI entities collaborate, communicate, and assist both humans and other agents in complex, real-world environments.
 
 News
 ======
