@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Yusen Zhang, an incoming Postdoctoral Research Scientist in Computer Science at Columbia University, advised by faculty in the [DAPLab](https://daplab.cs.columbia.edu/people) (including Zhou Yu, Eugene Wu, David Blei, Daniel Hsu, etc.). I obtained my PhD degree from Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). I am fortunate to be the recipient of the SAC Award of NAACL 2025 and the Best Paper Award of a workshop at AAAI 2025.
+Hi~ I am Yusen Zhang, a Postdoctoral Research Scientist in Computer Science at Columbia University, advised by faculty in the [DAPLab](https://daplab.cs.columbia.edu/people) (including Zhou Yu, Eugene Wu, David Blei, Daniel Hsu, etc.). I obtained my PhD degree from Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). I am fortunate to be the recipient of the SAC Award of NAACL 2025 and the Best Paper Award of a workshop at AAAI 2025.
 
 
 I am also open to academic collaborations—please feel free to reach out if you’re interested in working together! Let's build the future of LLM together!
