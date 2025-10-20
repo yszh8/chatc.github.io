@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Yusen's Homepage"
 title_separator          : "-"
 name                     : &name "Yusen Zhang"
-description              : &description "PhD Student at Penn State University"
+description              : &description "Postdoctoral Research Scientist at Columbia University"
 url                      : https://yuszh.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chatc.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "daplab_logo_square.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yusen Zhang"
   avatar           : "yusen.jpg"
-  bio              : "PhD Student at Penn State University"
-  location         : "State College, PA"
+  bio              : "Postdoctoral Research Scientist at Columbia University"
+  location         : "New York, NY"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=FGyMx88AAAAJ&hl=en"
