@@ -16,10 +16,15 @@ Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Sarkar Snigdha Sarathi Das, Rui Zhang
 **NeuroGen: Neural Network Parameter Generation via Large Language Models** [\[PDF\]](https://arxiv.org/pdf/2505.12470)  \
 Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 
-**When Reasoning Meets Compression: Benchmarking Compressed Large Reasoning Models on Complex Reasoning Tasks** [\[PDF\]](https://arxiv.org/pdf/2504.02010?) \
-Nan Zhang, **Yusen Zhang**, Prasenjit Mitra, Rui Zhang 
+
 
 **Publications**
+
+**2026**
+
+**When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models** [\[PDF\]](https://arxiv.org/pdf/2504.02010?) \
+Nan Zhang, Eugene Kwek, **Yusen Zhang**, Ngoc-Hieu Nguyen, Prasenjit Mitra, Rui Zhang  \
+ICLR 2026
 
 **2025**
 
