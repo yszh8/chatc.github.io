@@ -6,6 +6,9 @@ author_profile: true
 ---
 **Preprints**
 
+**QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals** [\[PDF\]](https://arxiv.org/pdf/2602.02581) \
+Nan Zhang, Eugene Kwek, **Yusen Zhang**, Muyu Pan, Suhang Wang, Prasenjit Mitra, Rui Zhang
+
 **Survey on Neural Network Parameter Acquisition: from Optimization to Generation** [\[PDF\]](https://d197for5662m48.cloudfront.net/documents/publicationstatus/286677/preprint_pdf/3bd223bb5c27df61e20ca98390e1697d.pdf) \
 Jiaqi Wang, **Yusen Zhang**, Xi Li, Simeng Han, Zining Zhu, Lingjuan Lyu, Yaqing Wang, Ruiquan Huang, Arman Cohan, Rui Zhang, Sheng Li, Xin Eric Wang
 
