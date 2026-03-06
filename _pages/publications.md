@@ -6,9 +6,6 @@ author_profile: true
 ---
 **Preprints**
 
-**Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of Emerging Threats and Safeguards** [\[PDF\]](https://openreview.net/pdf?id=G24sipKOqM) \
-Xi Li, Shu Zhao, Xiaohan Zou, Fei Zhao, Fuxiao Liu, **Yusen Zhang**, Cheng Han, Yushun Dong, Jiaqi Wang
-
 **QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals** [\[PDF\]](https://arxiv.org/pdf/2602.02581) \
 Nan Zhang, Eugene Kwek, **Yusen Zhang**, Muyu Pan, Suhang Wang, Prasenjit Mitra, Rui Zhang
 
@@ -27,6 +24,10 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 **Publications**
 
 **2026**
+
+**Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of Emerging Threats and Safeguards** [\[PDF\]](https://openreview.net/pdf?id=G24sipKOqM) \
+Xi Li, Shu Zhao, Xiaohan Zou, Fei Zhao, Fuxiao Liu, **Yusen Zhang**, Cheng Han, Yushun Dong, Jiaqi Wang \
+Trustworthy AI @ ICLR 2026 
 
 **When Reasoning Meets Compression: Understanding the Effects of LLMs Compression on Large Reasoning Models** [\[PDF\]](https://arxiv.org/pdf/2504.02010?) \
 Nan Zhang, Eugene Kwek, **Yusen Zhang**, Ngoc-Hieu Nguyen, Prasenjit Mitra, Rui Zhang  \
