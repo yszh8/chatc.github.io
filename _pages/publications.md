@@ -25,7 +25,7 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 
 **Training Step-Level Reasoning Verifiers with Formal Verification Tools** [\[PDF\]](https://arxiv.org/abs/2505.15960) [\[Home\]](https://fover-prm.github.io/) \
 Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Sarkar Snigdha Sarathi Das, Rui Zhang \
-ACL 2026 Findings
+Findings of ACL 2026
 
 **Evolving Safety Landscape of Multi-modal Large Language Models: A Survey of Emerging Threats and Safeguards** [\[PDF\]](https://openreview.net/pdf?id=G24sipKOqM) \
 Xi Li, Shu Zhao, Xiaohan Zou, Fei Zhao, Fuxiao Liu, **Yusen Zhang**, Cheng Han, Yushun Dong, Jiaqi Wang \
