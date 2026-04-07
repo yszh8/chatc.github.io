@@ -9,6 +9,9 @@ author_profile: true
 **Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning** [\[PDF\]](https://arxiv.org/pdf/2603.22619) \
 Jihyun Janice Ahn, Ryo Kamoi, Berk Atil, Renze Lou, WonWoo Kang, Heehyun Park, Sarkar Snigdha Sarathi Das, Zhuoyang Zou, Xiaoxin Lu, **Yusen Zhang**, Asfahan Shah, Ridwanul Hasan Tanvir, Lingxiao Zhao, Hongxi Huang, Vignesh Venkatesh, Dianjun Lin, Hamid Shah, Wentao Wang, Zhanpeng Song, Joshua Reed Bassin, Dax Patel, Ishan Appareddy Agrahar, Sahil Pardasani, Xin Dong, Fatemeh Rahbari, Benjamin David Rishel, Soochan Andrew Lee, Yuv Boghani, Ali B AlNaseeb, Pranav Suby, Seokhyeon Bae, Shreya Buddharaju, Damien Kula, Soumyadeep Das, Hanyang Frank Liu, Faye Mo, Wenpeng Yin
 
+**Agentic Data Environments** [\[PDF\]](https://www.dropbox.com/scl/fi/fpjui0mjof5uuddw0oee5/agenticdataenvs-ieeedatabull-submitted.pdf?rlkey=4liqw8dkstwzilpn968y2hxbe&e=1&dl=0) \
+Elaine Ang, Chenxi Huang, Georgios Liargkovas, Jerry Liu, Jinhui Liu, Nikos Pagonas, Charlie Summers, Haonan Wang, Jiakai Xu, Tianle Zhou, **Yusen Zhang**, Zhou Yu, Zhuo Zhang, Tianyi Peng, Kostis Kaffes, Eugene Wu
+
 **QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals** [\[PDF\]](https://arxiv.org/pdf/2602.02581) \
 Nan Zhang, Eugene Kwek, **Yusen Zhang**, Muyu Pan, Suhang Wang, Prasenjit Mitra, Rui Zhang
 
