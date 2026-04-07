@@ -6,6 +6,9 @@ author_profile: true
 ---
 **Preprints**
 
+**Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning** [\[PDF\]](https://arxiv.org/pdf/2603.22619) \
+Jihyun Janice Ahn, Ryo Kamoi, Berk Atil, Renze Lou, WonWoo Kang, Heehyun Park, Sarkar Snigdha Sarathi Das, Zhuoyang Zou, Xiaoxin Lu, **Yusen Zhang**, Asfahan Shah, Ridwanul Hasan Tanvir, Lingxiao Zhao, Hongxi Huang, Vignesh Venkatesh, Dianjun Lin, Hamid Shah, Wentao Wang, Zhanpeng Song, Joshua Reed Bassin, Dax Patel, Ishan Appareddy Agrahar, Sahil Pardasani, Xin Dong, Fatemeh Rahbari, Benjamin David Rishel, Soochan Andrew Lee, Yuv Boghani, Ali B AlNaseeb, Pranav Suby, Seokhyeon Bae, Shreya Buddharaju, Damien Kula, Soumyadeep Das, Hanyang Frank Liu, Faye Mo, Wenpeng Yin
+
 **QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals** [\[PDF\]](https://arxiv.org/pdf/2602.02581) \
 Nan Zhang, Eugene Kwek, **Yusen Zhang**, Muyu Pan, Suhang Wang, Prasenjit Mitra, Rui Zhang
 
@@ -18,6 +21,7 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 **Publications**
 
 **2026**
+
 
 **Training Step-Level Reasoning Verifiers with Formal Verification Tools** [\[PDF\]](https://arxiv.org/abs/2505.15960) [\[Home\]](https://fover-prm.github.io/) \
 Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Sarkar Snigdha Sarathi Das, Rui Zhang \
