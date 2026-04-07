@@ -42,7 +42,9 @@ My ultimate goal is to build an Agent Society — a user-centric ecosystem where
 News
 ======
 
-\[2025.6\] One paper on LLM Compression is accepted at ICLR 2026. Thanks to Nan and all the collaborators!
+\[2026.4\] Fover is accepted at ACL 2026 Findings. Thanks to Ryo and all the collaborators!
+
+\[2026.1\] One paper on LLM Compression is accepted at ICLR 2026. Thanks to Nan and all the collaborators!
 
 \[2025.10\] We organize the WMAC 2026 workshop! [AAAI 2026 Bridge Program on Advancing LLM-Based Multi-Agent Collaboration. ](https://multiagents.org/2026/)Welcome to submit, discuss, and brainstorm!
 
