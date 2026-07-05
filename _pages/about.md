@@ -15,7 +15,7 @@ I am also open to academic collaborations—please feel free to reach out if you
 
 # Research
 
-My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in building distributed Multi-Agent LLM Systems for Work (MA-LLM4Work), enabling multi-agent systems to function as collaborative organizational entities, similar to human society, to automate or augment human work. It involves two parts of research in diverse domains:
+My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in building distributed Multi-Agent LLM Systems for Work (MA-LLM4Work), enabling multi-agent systems to function as collaborative organizational entities, similar to human society, to automate or augment human work. 
 
 ### Scalable, efficient, trustworthy, and collaborative Large Language Model Agent systems
 
@@ -24,15 +24,9 @@ From a technical perspective, I aim to explore how multiple models can work toge
 - How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?  
 - What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 
+I believe MAS research should involve the efforts of multiple layers and directions:
 
-### Make the Agent and Agent Systems work in real-world organizations to automate humans' work.
-
-From an application perspective, I build agents as effective members of human organizations, collaborating with people and other agents. This requires advances across multiple intersections:
-- Agent × Database: Designing reliable memory systems that enable agents to pursue long-term goals.  
-- Agent × ML Theory: Understanding why and when multi-agent systems outperform single agents.  
-- Agent × HCI: Creating smooth human–agent collaboration in practical workflows.  
-- Agent × CV/Robotics: Developing actionable agents that can use computers, perceive visual environments, and make autonomous decisions.  
-- Agent × Business: Modeling humans as digital-agent counterparts (digital twins) that can work on their behalf.
+<img width="4808" height="3104" alt="image" src="https://github.com/user-attachments/assets/b91f97d1-86fa-4a62-9ea7-b4c3a0e937bd" />
 
 ---
 
