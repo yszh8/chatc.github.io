@@ -24,9 +24,6 @@ From a technical perspective, I aim to explore how multiple models can work toge
 - How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?  
 - What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 
-I conduct MAS research from multiple layers and directions:
-
-<img width="4808" height="3104" alt="image" src="https://github.com/user-attachments/assets/b91f97d1-86fa-4a62-9ea7-b4c3a0e937bd" />
 
 ---
 
