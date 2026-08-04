@@ -35,7 +35,7 @@ ICML 2026
 
 **Agentic Data Environments** [\[PDF\]](https://www.dropbox.com/scl/fi/fpjui0mjof5uuddw0oee5/agenticdataenvs-ieeedatabull-submitted.pdf?rlkey=4liqw8dkstwzilpn968y2hxbe&e=1&dl=0) \
 Elaine Ang, Chenxi Huang, Georgios Liargkovas, Jerry Liu, Jinhui Liu, Nikos Pagonas, Charlie Summers, Haonan Wang, Jiakai Xu, Tianle Zhou, **Yusen Zhang**, Zhou Yu, Zhuo Zhang, Tianyi Peng, Kostis Kaffes, Eugene Wu \
-Data Engineering Bulletin, 2026 
+Data Engineering Bulletin 2026 
 
 **Training Step-Level Reasoning Verifiers with Formal Verification Tools** [\[PDF\]](https://arxiv.org/abs/2505.15960) [\[Home\]](https://fover-prm.github.io/) \
 Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Sarkar Snigdha Sarathi Das, Rui Zhang \
