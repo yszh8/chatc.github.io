@@ -26,11 +26,11 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 **2026**
 
 **AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs** [\[PDF\]](https://ryanzhumich.github.io/files/AgentWorld.pdf) [\[Website\]](https://agentworld.io/) \
-Raphael Shu*, **Yusen Zhang***, Young Min Cho*, Jin Mo Yang, Yuan Yuan, Wenliang Zheng, Sharath Chandra Guntuku, Lyle Ungar, Zhou Yu, Rui Zhang \
+Raphael Shu\*, **Yusen Zhang**\*, Young Min Cho*, Jin Mo Yang, Yuan Yuan, Wenliang Zheng, Sharath Chandra Guntuku, Lyle Ungar, Zhou Yu, Rui Zhang \
 COLM 2026 
 
 **LAKEQA: An Exploratory QA Benchmark over a Million-Scale Data Lake** [\[PDF\]](https://arxiv.org/pdf/2606.10460) \
-Haonan Wang*, Jiaxiang Liu*, Yurong Liu, Austin Senna Wijaya, Tianle Zhou, Eden Wu, Yijia Chen, Wanting You, Reya Vir, Daniela Pinto Veizaga, Grace Fan, **Yusen Zhang**, Juliana Freire, Eugene Wu \
+Haonan Wang\*, Jiaxiang Liu\*, Yurong Liu, Austin Senna Wijaya, Tianle Zhou, Eden Wu, Yijia Chen, Wanting You, Reya Vir, Daniela Pinto Veizaga, Grace Fan, **Yusen Zhang**, Juliana Freire, Eugene Wu \
 ICML 2026
 
 **Agentic Data Environments** [\[PDF\]](https://www.dropbox.com/scl/fi/fpjui0mjof5uuddw0oee5/agenticdataenvs-ieeedatabull-submitted.pdf?rlkey=4liqw8dkstwzilpn968y2hxbe&e=1&dl=0) \
