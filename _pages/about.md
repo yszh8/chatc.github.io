@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi~ I am Yusen Zhang, a Postdoctoral Research Scientist in Computer Science at Columbia University, advised by faculty in the [DAPLab](https://daplab.cs.columbia.edu/people) (including Zhou Yu, Eugene Wu, David Blei, Daniel Hsu, etc.). I obtained my PhD degree from Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). I am fortunate to be the recipient of the SAC Award of NAACL 2025 and the Best Paper Award of a workshop at AAAI 2025.
+Hi~ I am Yusen Zhang, a Postdoctoral Research Scientist in Computer Science at Columbia University, advised by faculty in the [DAPLab](https://daplab.cs.columbia.edu/people) (including Zhou Yu, Eugene Wu, David Blei, Daniel Hsu, etc.). I obtained my PhD degree from Penn State University, advised by Dr. [Rui Zhang](https://ryanzhumich.github.io/). I have done industry research internships at Amazon, Microsoft, and Google. I also worked closely with Dr. [Dragomir Radev](https://www.cs.yale.edu/homes/radev/). I received my master's degree from Emory University, advised by Dr. [Jinho D. Choi](http://www.mathcs.emory.edu/~choi/home.html). I am fortunate to be the recipient of the SAC Award of NAACL 2025, the Best Paper Award of a workshop at AAAI 2025, and a Best Doctoral Dissertation runner-up at Penn State in 2026.
 
 
-I am also open to academic collaborations—please feel free to reach out if you’re interested in working together! Let's build the future of LLM together!
+I am on the academic job market this year! Please let me know if you have any information. I am also open to academic collaborations—please feel free to reach out if you’re interested in working together! Let's build the future of LLM together!
 
 # Research
 
@@ -23,8 +23,6 @@ From a technical perspective, I aim to explore how multiple models can work toge
 - How can we design mechanisms for efficient, accurate, and context-aware communication between LLMs?  
 - How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?  
 - What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
-
-
 ---
 
 My ultimate goal is to build an Agent Society — a user-centric ecosystem where multiple AI entities collaborate, communicate, and assist both humans and other agents in complex, real-world environments.
@@ -32,6 +30,12 @@ My ultimate goal is to build an Agent Society — a user-centric ecosystem where
 
 News
 ======
+
+\[2026.7\] I was awarded a runner-up for [Best Doctoral Dissertation in an AI-related Discipline at Penn State](https://www.psu.edu/news/institute-computational-and-data-sciences/story/ai-hub-honors-14-individuals-penn-state-ai-awards). Thanks, Penn State!
+
+\[2026.7\] [AgentWorld](https://agentworld.io/) is accepted at COLM 2026. Thanks to Raphael, Jeffrey, and all the collaborators!
+
+\[2026.5\] LakeQA is accepted at ICML 2026. Thanks to Haonan, Jerry, and all the collaborators!
 
 \[2026.4\] Fover is accepted at ACL 2026 Findings. Thanks to Ryo and all the collaborators!
 
