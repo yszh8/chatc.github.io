@@ -26,7 +26,7 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 **2026**
 
 **AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs** [\[PDF\]](https://ryanzhumich.github.io/files/AgentWorld.pdf) [\[Website\]](https://agentworld.io/) \
-Raphael Shu*, Yusen Zhang*, Young Min Cho*, Jin Mo Yang, Yuan Yuan, Wenliang Zheng, Sharath Chandra Guntuku, Lyle Ungar, Zhou Yu, Rui Zhang \
+Raphael Shu*, **Yusen Zhang***, Young Min Cho*, Jin Mo Yang, Yuan Yuan, Wenliang Zheng, Sharath Chandra Guntuku, Lyle Ungar, Zhou Yu, Rui Zhang \
 COLM 2026 
 
 **LAKEQA: An Exploratory QA Benchmark over a Million-Scale Data Lake** [\[PDF\]](https://arxiv.org/pdf/2606.10460) \
