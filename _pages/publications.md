@@ -6,11 +6,11 @@ author_profile: true
 ---
 **Preprints**
 
+**VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation** [\[PDF\]](https://arxiv.org/pdf/2606.11079) \
+Yunan Lu, Ryan Shea, **Yusen Zhang**, Zhou Yu \
+
 **Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning** [\[PDF\]](https://arxiv.org/pdf/2603.22619) \
 Jihyun Janice Ahn, Ryo Kamoi, Berk Atil, Renze Lou, WonWoo Kang, Heehyun Park, Sarkar Snigdha Sarathi Das, Zhuoyang Zou, Xiaoxin Lu, **Yusen Zhang**, Asfahan Shah, Ridwanul Hasan Tanvir, Lingxiao Zhao, Hongxi Huang, Vignesh Venkatesh, Dianjun Lin, Hamid Shah, Wentao Wang, Zhanpeng Song, Joshua Reed Bassin, Dax Patel, Ishan Appareddy Agrahar, Sahil Pardasani, Xin Dong, Fatemeh Rahbari, Benjamin David Rishel, Soochan Andrew Lee, Yuv Boghani, Ali B AlNaseeb, Pranav Suby, Seokhyeon Bae, Shreya Buddharaju, Damien Kula, Soumyadeep Das, Hanyang Frank Liu, Faye Mo, Wenpeng Yin
-
-**Agentic Data Environments** [\[PDF\]](https://www.dropbox.com/scl/fi/fpjui0mjof5uuddw0oee5/agenticdataenvs-ieeedatabull-submitted.pdf?rlkey=4liqw8dkstwzilpn968y2hxbe&e=1&dl=0) \
-Elaine Ang, Chenxi Huang, Georgios Liargkovas, Jerry Liu, Jinhui Liu, Nikos Pagonas, Charlie Summers, Haonan Wang, Jiakai Xu, Tianle Zhou, **Yusen Zhang**, Zhou Yu, Zhuo Zhang, Tianyi Peng, Kostis Kaffes, Eugene Wu
 
 **QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals** [\[PDF\]](https://arxiv.org/pdf/2602.02581) \
 Nan Zhang, Eugene Kwek, **Yusen Zhang**, Muyu Pan, Suhang Wang, Prasenjit Mitra, Rui Zhang
@@ -25,6 +25,17 @@ Jiaqi Wang\*, **Yusen Zhang**\*, Xi Li\*
 
 **2026**
 
+**AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs** [\[PDF\]](https://ryanzhumich.github.io/files/AgentWorld.pdf) [\[Website\]](https://agentworld.io/) \
+Raphael Shu*, Yusen Zhang*, Young Min Cho*, Jin Mo Yang, Yuan Yuan, Wenliang Zheng, Sharath Chandra Guntuku, Lyle Ungar, Zhou Yu, Rui Zhang \
+COLM 2026 
+
+**LAKEQA: An Exploratory QA Benchmark over a Million-Scale Data Lake** [\[PDF\]](https://arxiv.org/pdf/2606.10460) \
+Haonan Wang*, Jiaxiang Liu*, Yurong Liu, Austin Senna Wijaya, Tianle Zhou, Eden Wu, Yijia Chen, Wanting You, Reya Vir, Daniela Pinto Veizaga, Grace Fan, **Yusen Zhang**, Juliana Freire, Eugene Wu \
+ICML 2026
+
+**Agentic Data Environments** [\[PDF\]](https://www.dropbox.com/scl/fi/fpjui0mjof5uuddw0oee5/agenticdataenvs-ieeedatabull-submitted.pdf?rlkey=4liqw8dkstwzilpn968y2hxbe&e=1&dl=0) \
+Elaine Ang, Chenxi Huang, Georgios Liargkovas, Jerry Liu, Jinhui Liu, Nikos Pagonas, Charlie Summers, Haonan Wang, Jiakai Xu, Tianle Zhou, **Yusen Zhang**, Zhou Yu, Zhuo Zhang, Tianyi Peng, Kostis Kaffes, Eugene Wu \
+Data Engineering Bulletin, 2026 
 
 **Training Step-Level Reasoning Verifiers with Formal Verification Tools** [\[PDF\]](https://arxiv.org/abs/2505.15960) [\[Home\]](https://fover-prm.github.io/) \
 Ryo Kamoi, **Yusen Zhang**, Nan Zhang, Sarkar Snigdha Sarathi Das, Rui Zhang \
