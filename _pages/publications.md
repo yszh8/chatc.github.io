@@ -7,7 +7,7 @@ author_profile: true
 **Preprints**
 
 **VISTA: A Versatile Interactive User Simulation Toolkit for Agent Evaluation** [\[PDF\]](https://arxiv.org/pdf/2606.11079) \
-Yunan Lu, Ryan Shea, **Yusen Zhang**, Zhou Yu \
+Yunan Lu, Ryan Shea, **Yusen Zhang**, Zhou Yu 
 
 **Bridging the Know-Act Gap via Task-Level Autoregressive Reasoning** [\[PDF\]](https://arxiv.org/pdf/2603.22619) \
 Jihyun Janice Ahn, Ryo Kamoi, Berk Atil, Renze Lou, WonWoo Kang, Heehyun Park, Sarkar Snigdha Sarathi Das, Zhuoyang Zou, Xiaoxin Lu, **Yusen Zhang**, Asfahan Shah, Ridwanul Hasan Tanvir, Lingxiao Zhao, Hongxi Huang, Vignesh Venkatesh, Dianjun Lin, Hamid Shah, Wentao Wang, Zhanpeng Song, Joshua Reed Bassin, Dax Patel, Ishan Appareddy Agrahar, Sahil Pardasani, Xin Dong, Fatemeh Rahbari, Benjamin David Rishel, Soochan Andrew Lee, Yuv Boghani, Ali B AlNaseeb, Pranav Suby, Seokhyeon Bae, Shreya Buddharaju, Damien Kula, Soumyadeep Das, Hanyang Frank Liu, Faye Mo, Wenpeng Yin
