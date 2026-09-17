@@ -19,12 +19,11 @@ My research interests lie in AI, NLP, and LLMs. Specifically, I am interested in
 
 ### Scalable, efficient, trustworthy, and collaborative Large Language Model Agent systems
 
-From a technical perspective, I aim to explore how multiple models can work together intelligently (Agent × NLP/LLM). For instance:
+From a technical perspective, I aim to explore how multiple models can work together intelligently. For instance:
 
-- What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 - How can we design mechanisms for efficient, accurate, and context-aware communication between LLMs?  
 - How can we harness collective intelligence across multiple agents for complex reasoning and high-stakes decision-making?  
-
+- What technological, ethical, and policy frameworks are needed for the responsible integration of such systems into society?
 
 
 My ultimate goal is to build an Agent Society — a user-centric ecosystem where multiple AI entities collaborate, communicate, and assist both humans and other agents in complex, real-world environments.
@@ -32,7 +31,7 @@ My ultimate goal is to build an Agent Society — a user-centric ecosystem where
 
 News
 ======
-\[2026.9\] I was invited as Area Chairs for ICLR 2027. 
+\[2026.9\] I was invited to serve as Area Chair for ICLR 2027. 
 
 \[2026.7\] I was awarded a runner-up for [Best Doctoral Dissertation in an AI-related Discipline at Penn State](https://www.psu.edu/news/institute-computational-and-data-sciences/story/ai-hub-honors-14-individuals-penn-state-ai-awards). Thanks, Penn State!
 
