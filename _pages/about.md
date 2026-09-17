@@ -32,6 +32,7 @@ My ultimate goal is to build an Agent Society — a user-centric ecosystem where
 
 News
 ======
+\[2026.9\] I was invited as Area Chairs for ICLR 2027. 
 
 \[2026.7\] I was awarded a runner-up for [Best Doctoral Dissertation in an AI-related Discipline at Penn State](https://www.psu.edu/news/institute-computational-and-data-sciences/story/ai-hub-honors-14-individuals-penn-state-ai-awards). Thanks, Penn State!
 
